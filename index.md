@@ -26,7 +26,7 @@
 ### 团队合作
 
 1. **2016春季百度前端技术学院**
-*以下任务都是一个人完成的，并且review了许多组代码，学习到了许多小技巧*
+*以下任务都是一个人完成的，并且review了许多组代码，学习到了许多小技巧*  
 [地址:http://shikokuyt.github.io/ife_work/](http://shikokuyt.github.io/ife_work/)
 
 2. **杭州电子科技大学信息工程学院辅导员评价系统**
@@ -34,7 +34,7 @@
 
 ### 个人Demo
 
-1. 实现一个简单的打字机效果(JS)
+1. 实现一个简单的打字机效果(JS)  
 [Github地址https://github.com/shikokuyt/typewriter](https://github.com/shikokuyt/typewriter)
 2. 实现一个抽奖系统(webapp)
 *使用CI框架(MVC)，flex布局*  
