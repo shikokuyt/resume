@@ -16,9 +16,10 @@
 
 ## 个人评价
 
-1. 对HTML、CSS、JS的基础掌握较好
+1. HTML、CSS、JS的**基础扎实**
 2. 专注学习每一个知识点
 3. 乐于分享知识
+4. 积极参与与前端有关的活动(黑客马拉松、D-DAY)
 
 ## 项目经历
 
@@ -34,9 +35,11 @@
 ### 个人Demo
 
 1. 实现一个简单的打字机效果(JS)
+[Github地址https://github.com/shikokuyt/typewriter](https://github.com/shikokuyt/typewriter)
 2. 实现一个抽奖系统(webapp)
-*使用CI框架(MVC)，flex布局*
+*使用CI框架(MVC)，flex布局*  
 [Github地址https://github.com/maczyt/betaLottery](https://github.com/maczyt/betaLottery)
+
 
 ## 个人学习经历
 
