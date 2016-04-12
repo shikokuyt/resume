@@ -16,7 +16,7 @@
 
 ## 个人评价
 
-1. **喜欢写博客,[博客地址http://zhouyutao.com](http://zhouyutao.com)**, 因为不喜欢死记硬背一些知识点，而是通过博文记载下来，以便不时之需
+1. **喜欢写博客,[博客地址http://zhouyutao.com](http://zhouyutao.com)**，因为不喜欢死记硬背一些知识点， 而是去理解知识点并通过博文记载，当有些遗漏之处时回顾博文
 2. HTML、CSS、JS的**基础扎实**
 3. 专注学习每一个知识点
 4. 乐于分享知识
@@ -31,7 +31,7 @@
 [地址:http://shikokuyt.github.io/ife_work/](http://shikokuyt.github.io/ife_work/)
 
 2. **杭州电子科技大学信息工程学院辅导员评价系统**
-*我是负责完成该系统的后台以及维护, 使用PHP5.0+MYSQL5.6+PHPMYADMIN*
+*我是负责完成该系统的后台以及维护，使用PHP5.0+MYSQL5.6+PHPMYADMIN*
 
 ### 个人Demo
 
